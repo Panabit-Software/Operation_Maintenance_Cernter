@@ -1,10 +1,11 @@
-<p>
-    中文| <a href="README_EN.md"> English <a/>  
-</p>
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Panabit/SaaS)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Support](https://img.shields.io/badge/support-7x12-blue.svg)](https://bbs.panabit.com)
+
+<p>
+    中文| <a href="README_EN.md"> English <a/>  
+</p>
 
 👉 **欢迎来到 Panabit SaaS 平台 的介绍文档**  
 本平台由派网公司推出，致力于为全国各地的网络设备（如网关、AP 等）提供统一、高效、安全的云上网络管家服务，让企业的分布式设备管理变得简单、便捷。
