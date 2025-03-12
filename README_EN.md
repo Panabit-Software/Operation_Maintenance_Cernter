@@ -117,6 +117,8 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 🔧 **Step 1: Install the Client**  
 Log in to the Panabit management interface and install the "Panabit_SaaS Client" from the App Store.
 
+![步骤1](pics_en/Step1.png)
+
 🔧 **Step 2: Retrieve Authorization Information**  
 Click the installed client and copy the **Authorization Code** and **System ID**.
 
