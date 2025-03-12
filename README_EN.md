@@ -117,14 +117,17 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 🔧 **Step 1: Install the Client**  
 Log in to the Panabit management interface and install the "Panabit_SaaS Client" from the App Store.
 
-![步骤1](pics_en/Step1.png)
+![步骤1](image/Step1.png)
 
 🔧 **Step 2: Retrieve Authorization Information**  
 Click the installed client and copy the **Authorization Code** and **System ID**.
 
+![步骤1](image/Step2.png)
+
 🔧 **Step 3: Bind the Device**  
 Log in to the public cloud SaaS platform ([saas.panabit.com](https://saas.panabit.com)), navigate to "Device Management," and add the device using the copied credentials.
 
+![步骤1](image/Step3.png)
 ---
 
 ## Support Services
