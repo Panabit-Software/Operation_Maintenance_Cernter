@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Support](https://img.shields.io/badge/support-7x12-blue.svg)](https://bbs.panabit.com)
 
+<p>
+    <a href="README.md">中文<a/>|  English   
+</p>
+
 👉 **Welcome to the Panabit SaaS Platform Documentation**  
 This platform is developed by Panabit to provide a unified, efficient, and secure cloud-based network management solution for distributed enterprise devices, such as gateways and APs.
 
