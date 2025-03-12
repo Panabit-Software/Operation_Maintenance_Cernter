@@ -1,3 +1,7 @@
+<p>
+   English | <a href="README.md">中文<a/>  
+</p>
+
 # SaaS
 云上网络管家
 
