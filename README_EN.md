@@ -144,6 +144,5 @@ Log in to the public cloud SaaS platform ([saas.panabit.com](https://saas.panabi
 
 ---
 
-*Last updated: March 11, 2025*
 
 
