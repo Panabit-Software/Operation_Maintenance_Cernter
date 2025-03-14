@@ -134,7 +134,6 @@ Log in to the public cloud SaaS platform ([saas.panabit.com](https://saas.panabi
 
 ☎️ **Technical Support**: 7×12 hours available, hotline: 400-773-3996  
 ☎️ **Online Knowledge Base**: Visit [Panabit Forum](https://bbs.panabit.com)  
-☎️ **Nationwide Service Centers**: Locations in Beijing, Shanghai, Guangzhou, Chengdu, and 21 provincial offices
 
 ---
 
