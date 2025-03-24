@@ -9,7 +9,7 @@
 </p>
 
 👉 **Welcome to the Panabit SaaS Platform Documentation**  
-This platform is developed by Panabit to provide a unified, efficient, and secure cloud-based network management solution for distributed enterprise devices, such as gateways and APs.
+This platform is developed by Panabit to provide a unified, efficient, and secure cloud-based network management service for distributed enterprise devices, such as gateways and APs.
 
 ---
 
