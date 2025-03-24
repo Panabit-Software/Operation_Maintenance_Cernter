@@ -122,7 +122,7 @@ Log in to the Panabit management interface and install the "Panabit_SaaS Client"
 🔧 **Step 2: Retrieve Authorization Information**  
 Click the installed client and copy the **Authorization Code** and **System ID**.
 
-![步骤1](image/Step2.png)
+![步骤1](image/Step2_EN.jpg)
 
 🔧 **Step 3: Bind the Device**  
 Log in to the public cloud SaaS platform ([saas.panabit.com](https://saas.panabit.com)), navigate to "Device Management," and add the device using the copied credentials.
