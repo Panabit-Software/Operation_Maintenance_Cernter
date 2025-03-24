@@ -79,7 +79,7 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 📌 **Scenario 1: Chain Store Management**  
 - **Background**: A retail chain has 50 branches.  
 - **Pain Point**: Different network configurations at each store require on-site troubleshooting.  
-- **Solution**: Centralized policy management from HQ, remotely resolving 90% of network failures.
+- **Solution**: Centralized policy management from HQ, troubleshooting and resolving 90% of network issues remotely.
 
 📌 **Scenario 2: Multi-Subsidiary Corporations**  
 - **Background**: A corporation owns 10 subsidiaries.  
