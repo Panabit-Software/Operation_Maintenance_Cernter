@@ -1,145 +1,148 @@
+# Panabit SaaS Platform Overview
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Panabit/SaaS)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Support](https://img.shields.io/badge/support-7x12-blue.svg)](https://bbs.panabit.com)
 
 <p>
-    中文| <a href="README_EN.md"> English <a/>  
+    <a href="README_CN.md">中文<a/>|  English   
 </p>
 
-👉 **欢迎来到 Panabit SaaS 平台 的介绍文档**  
-本平台由派网公司推出，致力于为全国各地的网络设备（如网关、AP 等）提供统一、高效、安全的云上网络管家服务，让企业的分布式设备管理变得简单、便捷。
+👉 **Welcome to the Panabit SaaS Platform Documentation**  
+This platform is developed by Panabit to provide a unified, efficient, and secure cloud-based network management service for distributed enterprise devices, such as gateways and APs.
 
 ---
 
-## 目录
+## Table of Contents
 
-- [SaaS是什么？](#saas是什么)
-- [为什么选择派网SaaS平台？](#为什么选择派网saas平台)
-- [核心功能亮点](#核心功能亮点)
-- [安全保障机制](#安全保障机制)
-- [典型使用场景](#典型使用场景)
-- [私有化版本部署方式](#私有化版本部署方式)
-- [设备如何上线 SaaS 平台](#设备如何上线-saas-平台)
-- [服务支持](#服务支持)
-- [更多信息](#更多信息)
-
----
-
-## SaaS是什么？
-
-💡 **派网SaaS平台** 是由派网公司推出的综合性分析运维管理平台，专注于统一管理企业部署在全国各地的网络设备。  
-👉 无论是企业分公司的一台设备，还是各地办事处的多台设备，都能通过该平台实现统一管理，无需公网 IP，即可通过 [saas.panabit.com](https://saas.panabit.com) 访问。
+- [What is SaaS?](#what-is-saas)
+- [Why Choose Panabit SaaS?](#why-choose-panabit-saas)
+- [Key Features](#key-features)
+- [Security Mechanisms](#security-mechanisms)
+- [Typical Use Cases](#typical-use-cases)
+- [Private Deployment](#private-deployment)
+- [How to Connect Devices to SaaS](#how-to-connect-devices-to-saas)
+- [Support Services](#support-services)
+- [More Information](#more-information)
 
 ---
 
-## 为什么选择派网SaaS平台？
+## What is SaaS?
 
-### 传统管理的痛点
-
-🔥 **设备分散**：设备分布在全国各地，维护需要频繁上门。  
-🔥 **配置混乱**：多分支机构管理方式各异，难以形成统一规范。  
-🔥 **安全风险**：难以及时监控和防范安全隐患。
-
-### SaaS平台带来的改变
-
-🚀 **一站式管理**：集中管理所有设备，无论地域如何分散，都能统一调度。  
-🚀 **远程运维**：即使设备不在身边，运维人员也能通过平台实时监控与操作。  
-🚀 **安全加固**：通过数据加密和细粒度权限管控，大幅提升安全性。
-
-> 💬 **提示**：使用派网SaaS平台，企业可以大幅提升管理效率，同时降低运维成本，确保业务持续稳定运行。
+💡 **Panabit SaaS Platform** is a comprehensive analytics and operations management platform designed to centralize the management of enterprise-deployed network devices across multiple locations.  
+👉 Whether managing a single branch or multiple offices, users can access the platform without a public IP via [saas.panabit.com](https://saas.panabit.com).
 
 ---
 
-## 核心功能亮点
+## Why Choose Panabit SaaS?
 
-🔹 **主要功能**：下表展示了平台的主要功能、所解决的问题以及操作体验：
+### Traditional Management Challenges
 
-| **功能**   | **能解决的问题**             | **操作体验**                                              |
-| ---------- | ---------------------------- | --------------------------------------------------------- |
-| **设备管理** | 设备不在身边也能进行管理      | 网页直接登录设备后台，支持 SSH 和 WEB 两种方式               |
-| **实时监控** | 突发故障难以及时发现          | 流量、连接数、设备状态实时可视化，异常自动预警               |
-| **日志中心** | 查问题像大海捞针              | 自动收集设备操作记录与登录日志，支持关键词搜索               |
-| **批量操作** | 挨个升级设备操作繁琐          | 一键批量升级系统或更新配置（最高支持 200 台设备同时操作）       |
-| **权限隔离** | 外包团队操作混乱              | 可设置不同管理员权限（如 A 只能看报表，B 能修改配置）           |
+🔥 **Scattered Devices**: Devices are distributed nationwide, requiring frequent on-site maintenance.  
+🔥 **Configuration Chaos**: Different configurations across multiple branches make management difficult.  
+🔥 **Security Risks**: Hard to monitor and prevent security threats in real time.
 
----
+### How SaaS Changes the Game
 
-## 安全保障机制
+🚀 **One-Stop Management**: Centrally manage all network devices, regardless of location.  
+🚀 **Remote Operations**: Monitor and control devices remotely without needing physical access.  
+🚀 **Enhanced Security**: Data encryption and fine-grained access control significantly improve security.
 
-🔒 **连接安全**：采用银行级加密传输，每次连接均生成随机验证码，确保数据传输安全。  
-🔒 **权限管控**：实施细粒度权限划分，明确区分查看、操作和审计权限，杜绝越权操作。  
-🔒 **数据隔离**：不同企业数据完全隔离，确保数据安全，就像写字楼中的独立办公室。
+> 💬 **Tip**: By using Panabit SaaS, enterprises can enhance efficiency, reduce maintenance costs, and ensure continuous business operations.
 
 ---
 
-## 典型使用场景
+## Key Features
 
-📌 **场景1：连锁门店管理**  
-- **背景**：某连锁超市拥有 50 家分店。  
-- **痛点**：各门店网络配置不一致，断网问题需要现场处理。  
-- **解决方案**：总部统一设置上网策略，远程修复 90% 的故障。
+🔹 **Core Capabilities**: The table below outlines the key functionalities, problems solved, and user experience improvements:
 
-📌 **场景2：集团多子公司**  
-- **背景**：某集团拥有 10 家子公司。  
-- **痛点**：子公司 IT 水平参差不齐，管理混乱。  
-- **解决方案**：总部技术团队远程接管管理，子公司仅保留查看权限。
-
-📌 **场景3：远程办公支持**  
-- **背景**：某公司有 200 人居家办公。  
-- **痛点**：VPN 经常掉线且难以排查原因。  
-- **解决方案**：实时监控每个员工的连接状态，自动优化带宽分配，保障远程办公稳定性。
+| **Feature** | **Problem Solved** | **User Experience** |
+|------------|------------------|--------------------|
+| **Device Management** | Manage devices remotely | Access via web UI with SSH & Web login support |
+| **Real-time Monitoring** | Hard to detect sudden failures | Visualized traffic, connections, and alerts |
+| **Log Center** | Troubleshooting is like finding a needle in a haystack | Auto-collects logs, supports keyword search |
+| **Batch Operations** | Tedious to upgrade multiple devices manually | Upgrade/update up to 200 devices at once |
+| **Permission Control** | Unrestricted external team operations | Set role-based admin permissions |
 
 ---
 
-## 私有化版本部署方式
+## Security Mechanisms
 
-💻 **私有化部署**：针对不同企业场景，派网SaaS平台支持私有化部署，确保数据安全和网络独立性。
-
-### 部署指南
-
-👉 详细部署指南请参阅：[部署指南](https://bbs.panabit.com/thread-23981-1-1.html)
-
-### 硬件配置要求（最低配置）
-
-- 🖥 **CPU**：4 核 8 线程  
-- 🖥 **内存**：8GB  
-- 🖥 **硬盘**：50GB  
-- 🖥 **带宽**：5Mbps  
-- 🖥 **网卡**：1 张  
-- 🖥 **操作系统**：CentOS 7.6 或以上版本
+🔒 **Secure Connections**: Uses bank-grade encryption, generating random verification codes for each session.  
+🔒 **Access Control**: Fine-grained permission segmentation to distinguish viewing, operating, and auditing roles.  
+🔒 **Data Isolation**: Ensures complete data separation between enterprises, just like private offices in a business complex.
 
 ---
 
-## 设备如何上线 SaaS 平台
+## Typical Use Cases
 
-🔧 **步骤1：安装客户端**  
-登录 Panabit 管理界面后，在应用商店内安装 “Panabit_SaaS客户端”。
-	![步骤1](pics/Step1.png)
- 
-🔧 **步骤2：获取授权信息**  
-点击安装好的客户端图标，复制显示的 “授权编号” 和 “系统编号”。
-![步骤2](pics/Step2.png)
+📌 **Scenario 1: Chain Store Management**  
+- **Background**: A retail chain has 50 branches.  
+- **Pain Point**: Different network configurations at each store require on-site troubleshooting.  
+- **Solution**: Centralized policy management from HQ, troubleshooting and resolving 90% of network issues remotely.
 
-🔧 **步骤3：设备绑定**  
-登录公有云 SaaS 平台（[saas.panabit.com](https://saas.panabit.com)），在 “设备管理” 菜单中点击 “添加设备”，输入复制的设备信息完成绑定。
+📌 **Scenario 2: Multi-Subsidiary Corporations**  
+- **Background**: A corporation owns 10 subsidiaries.  
+- **Pain Point**: Varying IT expertise among subsidiaries causes inconsistent management.  
+- **Solution**: HQ's technical team remotely manages devices, while subsidiaries maintain read-only access.
 
-![步骤3](pics/Step3.png)
----
-
-## 服务支持
-
-☎️ **技术支持**：7×12 小时技术支持，服务热线：400-773-3996  
-
-☎️ **在线问题库**：访问 [Panabit 论坛](https://bbs.panabit.com)  
-
-☎️ **全国服务网点**：覆盖北京、上海、广州、成都等 7 个大区及 21 个省办事处
+📌 **Scenario 3: Remote Work Support**  
+- **Background**: A company has 200 remote employees.  
+- **Pain Point**: Frequent VPN disconnections make troubleshooting difficult.  
+- **Solution**: Real-time connection monitoring and automated bandwidth optimization ensure stability.
 
 ---
 
-## 更多信息
+## Private Deployment
 
-> 🌐 **官方网站**： [www.panabit.com](https://www.panabit.com)  
-> 📧 **技术支持邮箱**：support@panabit.com
+💻 **Private Deployment**: Panabit SaaS supports on-premises deployment for enterprises requiring independent and secure network environments.
+
+### Deployment Guide
+
+👉 See the full guide here: [Deployment Guide](https://bbs.panabit.com/thread-23981-1-1.html)
+
+### Minimum Hardware Requirements
+
+- 🖥 **CPU**: Quad-core, 8-thread  
+- 🖥 **Memory**: 8GB  
+- 🖥 **Storage**: 50GB  
+- 🖥 **Bandwidth**: 5Mbps  
+- 🖥 **Network Interface**: 1x Ethernet  
+- 🖥 **Operating System**: CentOS 7.6 or later
+
+---
+
+## How to Connect Devices to SaaS
+
+🔧 **Step 1: Install the Client**  
+Log in to the Panabit management interface and install the "Panabit_SaaS Client" from the App Store.
+
+![步骤1](image/Step1.png)
+
+🔧 **Step 2: Retrieve Authorization Information**  
+Click the installed client and copy the **Authorization Code** and **System ID**.
+
+![步骤1](image/Step2_EN.jpg)
+
+🔧 **Step 3: Bind the Device**  
+Log in to the public cloud SaaS platform ([saas.panabit.com](https://saas.panabit.com)), navigate to "Device Management," and add the device using the copied credentials.
+
+![步骤1](image/Step3.png)
+---
+
+## Support Services
+
+☎️ **Technical Support**: 7×12 hours available, hotline: 400-773-3996  
+☎️ **Online Knowledge Base**: Visit [Panabit Forum](https://bbs.panabit.com)  
+
+---
+
+## More Information
+
+> 🌐 **Official Website**: [www.panabit.com](https://www.panabit.com)  
+> 📧 **Technical Support Email**: support@panabit.com
+
+---
+
 
 
