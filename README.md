@@ -29,7 +29,7 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 
 ## What is SaaS?
 
-💡 **Panabit SaaS Platform** is a comprehensive analytics and operations management platform designed to centralize the management of enterprise-deployed network devices across multiple locations.  
+💡 **Panabit SaaS Platform** is a operation and maintenance center designed to centralize the management of enterprise-deployed network devices across multiple locations.  
 👉 Whether managing a single branch or multiple offices, users can access the platform without a public IP via [saas.panabit.com](https://saas.panabit.com).
 
 ---
