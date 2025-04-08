@@ -20,7 +20,6 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 - [Key Features](#key-features)
 - [Security Mechanisms](#security-mechanisms)
 - [Typical Use Cases](#typical-use-cases)
-- [Private Deployment](#private-deployment)
 - [How to Connect Devices to SaaS](#how-to-connect-devices-to-saas)
 - [Support Services](#support-services)
 - [More Information](#more-information)
@@ -91,24 +90,6 @@ This platform is developed by Panabit to provide a unified, efficient, and secur
 - **Pain Point**: Frequent VPN disconnections make troubleshooting difficult.  
 - **Solution**: Real-time connection monitoring and automated bandwidth optimization ensure stability.
 
----
-
-## Private Deployment
-
-💻 **Private Deployment**: Panabit SaaS supports on-premises deployment for enterprises requiring independent and secure network environments.
-
-### Deployment Guide
-
-👉 See the full guide here: [Deployment Guide](https://bbs.panabit.com/thread-23981-1-1.html)
-
-### Minimum Hardware Requirements
-
-- 🖥 **CPU**: Quad-core, 8-thread  
-- 🖥 **Memory**: 8GB  
-- 🖥 **Storage**: 50GB  
-- 🖥 **Bandwidth**: 5Mbps  
-- 🖥 **Network Interface**: 1x Ethernet  
-- 🖥 **Operating System**: CentOS 7.6 or later
 
 ---
 
